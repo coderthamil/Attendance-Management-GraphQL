@@ -1,0 +1,25 @@
+```
+└── 📁Attendance-Mngmt
+    └── 📁src
+        └── 📁database
+            └── 📁models
+                ├── attendance_model.js
+                ├── dashboard_model.js
+                ├── principal_model.js
+                ├── schedule_model.js
+                ├── student_model.js
+                ├── teacher_model.js
+            ├── db_setup.js
+        └── 📁graphql
+            └── 📁principal
+                ├── reslover.js
+                ├── typeDef.js
+            └── 📁teacher
+                ├── resolver.js
+                ├── typeDef.js
+            ├── resolver_index.js
+            ├── typeDef_index.js
+    ├── index.js
+    ├── package-lock.json
+    └── package.json
+```
